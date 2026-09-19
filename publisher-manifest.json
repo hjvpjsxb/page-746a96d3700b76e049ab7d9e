@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "32d2eba551c7a175f4997ae0",
+  "owner": "hjvpjsxb",
+  "repo": "page-746a96d3700b76e049ab7d9e",
+  "title": "fnf",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "746a96d3700b76e049ab7d9e",
+      "a": "fnf",
+      "b": "免费订阅clash节点",
+      "entity": "fnf",
+      "brand": "fnf",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "698e60384cbd7abdbe365efba3e845f383242bc9bcb46d208f80b0b2d7b2c71d",
+      "content": {
+        "primary_entity": "fnf",
+        "keyword1": "fnf",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_HERO_SUBTITLE": "fnf 加速器：轻量订阅，稳定连接",
+          "AI_HERO_INTRO": "fnf 是一款面向海外访问场景的加速器，通过订阅链接快速完成客户端配置，覆盖日常浏览、流媒体与轻量游戏需求。套餐按流量与设备数区分，适合个人、家庭到小团队等不同规模使用。",
+          "AI_VISUAL_TITLE": "fnf 加速器",
+          "AI_HIGHLIGHT_1": "月付十五元起，年付更省",
+          "AI_HIGHLIGHT_2": "三档套餐适配不同设备",
+          "AI_HIGHLIGHT_3": "订阅导入，客户端快速配置",
+          "AI_FEATURES_TITLE": "套餐与设备速览",
+          "AI_FEATURES_INTRO": "按设备数量与流量需求挑选合适的 fnf 套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可达 20 台，覆盖手机、平板与电脑等多种终端。",
+          "AI_FEATURE_TITLE_2": "按流量区间匹配",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，轻度浏览、日常追剧或重度下载都能找到对应方案。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付即开即用，年付折算更划算，旗舰版还提供 IPLC 专线与优先工单支持。",
+          "AI_CLIENTS_TITLE": "常用客户端",
+          "AI_CLIENTS_INTRO": "在 fnf 订阅页获取配置信息后，按设备导入对应客户端即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐按设备数与流量递增，年付价格更优，可按实际需求选择。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_GUIDE_INTRO": "从选套餐到完成客户端订阅，三个步骤即可开始使用 fnf。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量，在基础版、旗舰版或团队版中选定一款套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与网络环境，记录套餐对应的节点类型与支持设备数。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按照所选客户端的使用说明导入配置，连接节点即可开始使用。",
+          "AI_CLOSING_TITLE": "fnf 加速器",
+          "AI_CLOSING_TEXT": "按设备和流量选定套餐，导入订阅即刻体验 fnf 的稳定连接。",
+          "AI_DESCRIPTION": "，fnf 加速器围绕设备数量与月流量提供三档套餐：基础版 ¥15/月支持 3 台设备与 100GB 流量，旗舰版 ¥35/月支持 5 台设备与 300GB 流量并含 IPLC 专线，团队版 ¥85/月支持 20 台设备与 1000GB 流量。按年付可分别降至 ¥150、¥350、¥850，适合个人、家庭与小团队按需选择。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "fnf 套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看设备数量，再看每月流量。基础版 3 台设备、100GB 适合轻度使用；旗舰版 5 台设备、300GB 适合多设备家庭；团队版 20 台设备、1000GB 适合小组共享。",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版流量从 100GB 提升到 300GB，设备数从 3 台增加到 5 台，并提供全节点原生流媒体解锁和 IPLC 专线游戏加速优化。",
+          "AI_FAQ_QUESTION_3": "按年付是否更划算？",
+          "AI_FAQ_ANSWER_3": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，与月付相比相当于节省两个月费用，长期使用可优先考虑年付。",
+          "AI_FAQ_QUESTION_4": "订阅可以在哪些客户端使用？",
+          "AI_FAQ_ANSWER_4": "客户端覆盖多种常用系统，具体可用客户端类型请以设备系统与客户端文档为准，配置时按文档导入订阅信息即可。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线、每月 1000GB 流量，并提供 VIP 专属高带宽节点与企业定制路由，适合多人共享或办公场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d8f7e61e2c20171c0e3f599ffd812a5efd6e5f7c75036098dee28ecf600c644f",
+    "sitemap.xml": "7eb00058123859933ca8c3826741d2d5664ccaa58127f4ded0dd5eac67b6bca0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a559bf4eaad7f39c54155d2285a4b5350b5fd97bd674d848cadf347b59577c17"
+}
